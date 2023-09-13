@@ -1,0 +1,29 @@
+.header{background-color: rgba(251, 247, 236, 1);}
+.header .header-menu .menu{padding-left: 140px; margin: 0;}
+.header .header-menu .menu .a{margin-left: 45px;}
+.header .header-menu .btn{background-color: rgba(117, 107, 238, 1); padding: 5px 30px; border-radius: 50px; color: white;}
+.banner{background-color: rgba(251, 247, 236, 1);}
+.banner .banner-contant{padding: 100px 0px;}
+.banner .banner-contant h1{font-size: 68px; font-weight: 700; line-height: 78px; color: rgba(15, 13, 28, 1);}
+.banner .banner-contant p{font-size: 18px; font-weight: 400; line-height: 28px; color: rgba(90, 90, 90, 1);}
+.banner .banner-contant span{color: rgba(117, 107, 238, 1);}
+.banner .banner-contant .btn{background-color: rgba(117, 107, 238, 1); padding: 5px 30px; border-radius: 50px; color: white;margin-top: 20px;}
+.banner .banner-image img{width: 600px; height: 650px;}
+.companie{padding: 100px 0px;}
+.companie .companie-title{color: rgba(0, 0, 0, 1); font-size: 22px; font-weight: 400; line-height: 27px;}
+.about{padding-bottom: 150px; padding-top: 80px;}
+.about .about-contant h1{font-size: 55px; font-weight: 600; line-height: 66px; color: rgba(57, 54, 78, 1); padding-top: 80px;}
+.about .about-contant p{font-size: 18px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1);}
+.about .about-contant .btn{background-color: rgba(117, 107, 238, 1); padding: 5px 30px; border-radius: 50px; color: white;margin-top: 20px;}
+.feature{background-color: rgba(245, 244, 240, 1); padding: 100px 0px;}
+.feature .feature-title h1{font-size: 55px; font-weight: 600; line-height: 66px; color: rgba(57, 54, 78, 1); }
+.feature .feature-title p{font-size: 18px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1); padding-bottom: 50px;}
+.bussiness{padding: 120px 0px;}
+.bussiness .bussiness-contant h1{font-size: 55px; font-weight: 600; line-height: 66px; color: rgba(57, 54, 78, 1);}
+.bussiness .bussiness-contant p{font-size: 18px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1); padding-top: 30px; margin: 0px;}
+.portfolio{padding-bottom: 80px;}
+.portfolio .portfolio-title h1{font-size: 42px; font-weight: 600; line-height: 58px; color: rgba(57, 54, 78, 1);}
+.portfolio .portfolio-title p{font-size: 18px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1); padding-bottom: 30px; margin: 0px;}
+.testimonial{padding: 100px 0px; background-color: rgba(245, 244, 240, 1);}
+.testimonial .testimonial-title h1{font-size: 42px; font-weight: 600; line-height: 58px; color: rgba(57, 54, 78, 1);}
+.testimonial .testimonial-title p{font-size: 18px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1); padding-bottom: 60px; margin: 0px;}
