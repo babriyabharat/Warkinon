@@ -27,3 +27,98 @@
 .testimonial{padding: 100px 0px; background-color: rgba(245, 244, 240, 1);}
 .testimonial .testimonial-title h1{font-size: 42px; font-weight: 600; line-height: 58px; color: rgba(57, 54, 78, 1);}
 .testimonial .testimonial-title p{font-size: 18px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1); padding-bottom: 60px; margin: 0px;}
+.contact{background-color: rgba(120, 84, 247, 1); padding-top: 100px; padding-bottom: 100px;}
+.contact .contact-info p{font-size: 15px; font-weight: 400; line-height: 15px; color: rgba(255, 255, 255, 1);}
+.contact .contact-info h1{font-size: 42px; font-weight: 600; line-height: 58px; color: rgba(255, 255, 255, 1);}
+.contact .contact-info .btn{background-color:rgba(255, 255, 255, 1); padding: 10px 30px; border-radius: 5px; color: rgba(0, 0, 0, 1);margin-top: 30px;}
+.footer{background-color: rgba(0, 0, 0, 1);}
+.footer .footer-top{padding: 25px 0px;}
+.footer .footer-top .footer-top-menu ul{margin: 0px;}
+.footer .footer-top .footer-top-menu ul li{list-style: none; margin-left: 25px; color: rgba(189, 190, 200, 1);}
+.footer .footer-top .footer-top-icon{color: rgba(189, 190, 200, 1); justify-content: end;}
+.footer .footer-top .footer-top-icon .icon{padding-left: 20px;}
+.footer .footer-main{padding: 40px 0px;}
+.footer .footer-main .footer-main-menu ul li{list-style: none; margin-left: 25px; color: rgba(189, 190, 200, 1); padding-bottom: 12px;}
+.footer .footer-main .footer-main-menu ul li:first-child{font-weight: 700; padding-bottom: 15px;}
+.footer .footer-main .footer-main-contact{text-align: end;}
+.footer .footer-main .footer-main-contact h5{font-size: 18px; font-weight: 400; line-height: 18px;color: rgba(255, 255, 255, 1);}
+.footer .footer-main .footer-main-contact p{font-size: 16px; font-weight: 400; line-height: 22px; color: rgba(189, 190, 200, 1);}
+.footer .footer-end .footer-end-contant{padding: 20px 0px;}
+.footer .footer-end .footer-end-contant p{font-size: 16px; font-weight: 400; line-height: 24px; color: rgba(189, 190, 200, 1); padding-left: 50px;}
+
+/*Responsive Home Page */
+/* Desktop 1600px */
+@media (max-width: 1850px) {
+
+}
+
+/* Desktop 1440px */
+@media (max-width: 1440px) {
+
+}
+
+/* Desktop 1280px */
+@media (max-width: 1366px) {
+    .header .header-menu .menu{padding-left: 100px; margin: 0;}
+    .banner .banner-image img{width: 550px; height: 600px;}
+    .about .about-image img{width: 530px;}
+    .feature .feature-image img{width: 350px;}
+    .bussiness .bussiness-image img{width: 550px;}
+    .portfolio .portfolio-image img{width: 500px;}
+    .testimonial .testimonial-image img{width: 350px;}
+}
+
+/* iPad 1024px */
+@media (max-width: 1199px) {
+    .header .header-menu .menu{padding-left: 50px; margin: 0;}
+    .header .header-menu .menu .a{margin-left: 30px;}
+    .banner .banner-contant{padding: 80px 0px;}
+    .banner .banner-contant h1{font-size: 58px; font-weight: 700; line-height: 78px; color: rgba(15, 13, 28, 1);}
+    .banner .banner-contant p{font-size: 16px; font-weight: 400; line-height: 28px; color: rgba(90, 90, 90, 1);}
+    .banner .banner-image img{width: 450px; height: 500px;}
+    .about .about-image img{width: 450px;}
+    .about{padding-bottom: 150px; padding-top: 80px;}
+    .about .about-contant h1{font-size: 46px; font-weight: 600; line-height: 50px; color: rgba(57, 54, 78, 1); padding-top: 40px;}
+    .about .about-contant p{font-size: 16px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1);}
+    .about .about-contant .btn{background-color: rgba(117, 107, 238, 1); padding: 5px 30px; border-radius: 50px; color: white;margin-top: 10px;}
+    .feature{background-color: rgba(245, 244, 240, 1); padding: 100px 0px;}
+    .feature .feature-title h1{font-size: 48px; font-weight: 600; line-height: 56px; color: rgba(57, 54, 78, 1); }
+    .feature .feature-title p{font-size: 16px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1); padding-bottom: 50px;}
+    .feature .feature-image img{width: 300px;}
+    .bussiness .bussiness-image img{width: 450px;}
+    .bussiness .bussiness-contant h1{font-size: 48px; font-weight: 600; line-height: 55px; color: rgba(57, 54, 78, 1);}
+    .bussiness .bussiness-contant p{font-size: 16px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1); padding-top: 25px; margin: 0px;}
+    .portfolio .portfolio-title p{font-size: 16px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1); padding-bottom: 30px; margin: 0px;}
+    .portfolio .portfolio-image img{width: 450px;}
+    .testimonial .testimonial-title p{font-size: 16px; font-weight: 400; line-height: 27px; color: rgba(57, 54, 78, 1); padding-bottom: 40px; margin: 0px;}
+    .testimonial .testimonial-image img{width: 300px;}
+    .contact .contact-info p{font-size: 14px; font-weight: 400; line-height: 15px; color: rgba(255, 255, 255, 1);}
+    .contact .contact-info h1{font-size: 40px; font-weight: 600; line-height: 50px; color: rgba(255, 255, 255, 1);}
+
+
+}
+
+/* iPad 768px */
+@media (max-width: 991px) {
+
+}
+
+/* Iphone 767px */
+@media (max-width: 767px) {
+
+}
+
+/* Iphone 414px */
+@media (max-width: 567px) {
+
+}
+
+/* Mobile 375px */
+@media (max-width: 375px) {
+
+}
+
+/* Mobile 320px */
+@media (max-width: 320px) {
+  
+}
